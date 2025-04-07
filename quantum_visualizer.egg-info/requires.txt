@@ -1,0 +1,5 @@
+numpy
+matplotlib
+qiskit
+pyqt6
+pylatexenc

@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: quantum_visualizer
+Version: 0.1
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: qiskit
+Requires-Dist: pyqt6
+Requires-Dist: pylatexenc
+Dynamic: requires-dist
